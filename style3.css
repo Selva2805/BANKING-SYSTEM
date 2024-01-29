@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(117, 111, 111);
+}
+
+#contact {
+  height: 100vh;
+  /* margin-top: 90px; */
+  background-color: rgb(240, 238, 134);
+  color: rgb(11, 11, 11);
+  border: 3px solid rgb(240, 238, 134);
+  border-radius: 30px;
+  padding-bottom: 15px;
+}
+
+.cc {
+  border: 2px solid black;
+  width: 500px;
+  height: 240px;
+}
+
+#cn {
+  margin-top: 10px;
+}
